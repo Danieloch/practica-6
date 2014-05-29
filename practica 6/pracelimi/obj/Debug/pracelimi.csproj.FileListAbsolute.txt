@@ -1,0 +1,5 @@
+C:\Users\DANIEL\Documents\CuTonala\3 semestre\programa III\SharpDevelopPortable\Data\SharpDevelop Projects\pracelimi\pracelimi\obj\Debug\pracelimi.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Documents\CuTonala\3 semestre\programa III\SharpDevelopPortable\Data\SharpDevelop Projects\pracelimi\pracelimi\bin\Debug\pracelimi.exe
+C:\Users\DANIEL\Documents\CuTonala\3 semestre\programa III\SharpDevelopPortable\Data\SharpDevelop Projects\pracelimi\pracelimi\bin\Debug\pracelimi.pdb
+C:\Users\DANIEL\Documents\CuTonala\3 semestre\programa III\SharpDevelopPortable\Data\SharpDevelop Projects\pracelimi\pracelimi\obj\Debug\pracelimi.exe
+C:\Users\DANIEL\Documents\CuTonala\3 semestre\programa III\SharpDevelopPortable\Data\SharpDevelop Projects\pracelimi\pracelimi\obj\Debug\pracelimi.pdb
